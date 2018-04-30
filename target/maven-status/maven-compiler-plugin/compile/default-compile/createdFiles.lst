@@ -1,0 +1,15 @@
+org\mycompany\swagger\Code401FooterError.class
+org\mycompany\swagger\SwaggerConfiguration.class
+org\mycompany\swagger\Code404FooterError.class
+org\mycompany\TrackingApiRouteBuilder.class
+org\mycompany\swagger\SwaggerConfiguration$SwaggerWelcome.class
+org\mycompany\Application.class
+org\mycompany\swagger\Code404NotFoundResponse.class
+org\mycompany\events\EventResponse.class
+org\mycompany\ApiRouteBuilder.class
+org\mycompany\MyTransformer.class
+org\mycompany\swagger\Code401UnauthorizedResponse.class
+org\mycompany\swagger\EventsDescriptionDefinition.class
+org\mycompany\swagger\Code503ServiceUnavailableResponse.class
+org\mycompany\events\SummaryResponse.class
+org\mycompany\swagger\Code5xxServerErrorResponse.class
